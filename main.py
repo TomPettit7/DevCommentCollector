@@ -1,10 +1,10 @@
 import praw
 
 r = praw.Reddit(user_agent='The Official DeadByDaylight Bot',
-                client_id='8IaAimMsVSHECg',
-                client_secret='oaeWLkYuXUVKdoeMNfyUtLp0suM',
-                username='TheDBDBot',
-                password='HeyThereDBDCommunity1337')
+                client_id='',
+                client_secret='',
+                username='',
+                password='')
 
 def dev_comments_collect():
     devs = ['tozzer7']
